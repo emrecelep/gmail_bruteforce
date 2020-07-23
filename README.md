@@ -9,6 +9,5 @@ Bu program, girilen e-posta adresini kırmaya çalışacaktır. Sadece bir hedef
 ### Gereksinimler
 
 - Python v3.x
-- ~~~Python v2.x~~~
 
 
